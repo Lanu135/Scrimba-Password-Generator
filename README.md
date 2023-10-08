@@ -1,7 +1,7 @@
 # Scrimba-Password-Generator
 <a href="https://scrimba.com/">Scrimba.com</a> Solo Project from Module #3 (Making websites interactive) of the Frontend Career Path
 
-<a>Website<a>
+<a href="https://lanu135.github.io/Scrimba-Password-Generator/">Website<a>
 
 The requirments were the following
 
