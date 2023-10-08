@@ -1,0 +1,61 @@
+body{
+  font-family: 'Karla', sans-serif;
+  background: #1F2937;
+  color: #FFF;
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  margin: 115px 0 51px 0;
+}
+h1 {
+  margin: -5px;
+}
+
+.green {
+  color: #4ADF86;
+}
+
+.divider {
+  background: #2F3E53;
+  height: 1px;
+  width: 446px;
+  margin: 35px 0;
+}
+
+button {
+  background: #10B981;
+  color: #FFF;
+  width: 159px;
+  border-radius: 6px;
+  border: none;
+  font-family: inherit;
+  padding: 9px 16px;
+}
+ .password {
+  display: flex;
+}
+
+.password-one, .password-two {
+  width: 210px;
+  background: #273549;
+  height: 39px;
+  border-radius: 6px;
+  margin-right: 22px;
+  text-align: center;
+  vertical-align: middle;
+  padding-bottom: 9px;
+}
+
+input {
+  accent-color: #4ADF86;
+
+}
+
+#length-el {
+  border: none;
+  border-radius: 6px;
+  font-family: inherit;
+  font-weight: bold;
+}
