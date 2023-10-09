@@ -19,5 +19,7 @@ Summary:
 
 I used the darkmode Figma design. For me it was challeging to get the array back to "normal" after a checkbox was unchecked and checked again. 
 Finally I figured out that I didn't used all if conditionals.
+In that module I learned about loops and arrays, if statements, logical operators, objects and functions. So it was a nice practice to build this password generator,
+to deepen the learned stuff :)
 
 I will try to implement the "copy on click" feature.
